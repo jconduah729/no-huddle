@@ -1,7 +1,7 @@
 import { useState } from 'react'
 
 import igLogo from './assets/ig.svg'
-import xLogo from './assets/Xvector.png'
+import xLogo from './assets/xvector.png'
 import tokLogo from './assets/logo-tiktok.svg'
 import nhnLogo from './assets/nhnvector.png'
 import ytLogo from './assets/youtube.svg'
